@@ -26,7 +26,7 @@ pip install mamba_ssm==1.0.1 # mmamba_ssm-1.0.1+cu118torch1.13cxx11abiFALSE-cp38
 pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
 
 ## Train
-''' python train.py  '''
+``` python train.py ```
 
 ## Visualization Result
 ![Visualization](https://github.com/user-attachments/assets/cc2bc017-6fc3-45b5-92a3-e700745ccb46)
